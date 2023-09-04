@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var params_default = { baseURL: "/" };
+  var params_default = { baseURL: "https://swingfer.github.io/" };
 
   // <stdin>
   var scriptMd5 = document.createElement("script");

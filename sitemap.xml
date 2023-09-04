@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://swingfer.github.io/</loc>
     <lastmod>2023-03-20T13:06:38+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://swingfer.github.io/posts/</loc>
     <lastmod>2023-03-20T13:06:38+08:00</lastmod>
   </url><url>
-    <loc>/posts/stool-copy-2/</loc>
+    <loc>https://swingfer.github.io/posts/stool/</loc>
     <lastmod>2023-03-20T13:06:38+08:00</lastmod>
   </url><url>
-    <loc>/posts/stool-copy/</loc>
+    <loc>https://swingfer.github.io/posts/stool2/</loc>
     <lastmod>2023-03-20T13:06:38+08:00</lastmod>
   </url><url>
-    <loc>/posts/stool/</loc>
+    <loc>https://swingfer.github.io/posts/stool3/</loc>
     <lastmod>2023-03-20T13:06:38+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://swingfer.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://swingfer.github.io/tags/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://swingfer.github.io/about/</loc>
   </url>
 </urlset>

@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var baseURL = "/";
+  var baseURL = "https://swingfer.github.io/";
   var params = { blogroll: [{ name: "owoy", url: "https://wodta.com/" }], defaultcover: "https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg", email: "swingfer0@gmail.com", showcopyright: false, showmore: true, showrss: false, socialmedia: [{ name: "Github", url: "https://github.com/swingfer" }, { name: "Twitter", url: "https://twitter.com/some-one" }] };
 
   // <stdin>
